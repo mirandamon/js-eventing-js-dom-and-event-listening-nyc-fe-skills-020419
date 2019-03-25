@@ -69,6 +69,9 @@ button.addEventListener('click', () => {
 })
 
 
+const divs = 
+
+
 
 
 
