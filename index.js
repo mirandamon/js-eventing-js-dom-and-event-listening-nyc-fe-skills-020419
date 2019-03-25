@@ -40,9 +40,9 @@ inputBox.addEventListener('keydown', onInputKeyDown)
 
 const p = document.getElementById('yellow')
 
-function onYellowClick(event) {
+// function onYellowClick(event) {
   
-}
+// }
 
 p.addEventListener('click', (event) => {
   console.log(event)
