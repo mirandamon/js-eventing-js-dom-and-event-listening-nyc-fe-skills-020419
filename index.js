@@ -12,6 +12,8 @@ function onClick() {
   console.log('hey the click happened')
 }
 
+// document level events: online/offline, global help button/scrolling
+
 
 main.addEventListener('click', onClick)
 
