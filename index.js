@@ -14,3 +14,5 @@ function onClick() {
 
 
 main.addEventListener('click', onClick)
+
+document.addEventListener('click', onClick)
