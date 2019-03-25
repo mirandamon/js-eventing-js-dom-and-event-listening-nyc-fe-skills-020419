@@ -69,8 +69,12 @@ button.addEventListener('click', () => {
 })
 
 
-const divs = 
+const divs = document.querySelectorAll('div')
+// [div1, div2, div3]
 
+for (let div of divs) {
+  div.addEventListener()
+}
 
 
 
