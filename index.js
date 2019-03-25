@@ -13,4 +13,4 @@ function onClick() {
 }
 
 
-main.addEventListener('click', )
+main.addEventListener('click', onClick)
