@@ -22,7 +22,9 @@ function onKeyDown(event) {
 main.addEventListener('click', onClick)
 // document.addEventListener('keydown', onKeyDown)
 
-
+function onInputKeyDown(event) {
+  
+}
 
 // if/else 
 
