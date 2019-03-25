@@ -15,6 +15,6 @@ function onClick() {
 // document level events: online/offline, global help button/scrolling
 
 
-main.addEventListener('copy', onClick)
+main.addEventListener('click', onClick)
 
 document.addEventListener('click', onClick)
