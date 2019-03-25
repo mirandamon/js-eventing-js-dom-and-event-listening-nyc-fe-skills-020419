@@ -28,8 +28,8 @@ const inputBox = document.getElementById('sup')
 function onInputKeyDown(event) {
   // if/else 
   console.log(event)
-  if (event.keyCode ) {
-    
+  if (event.keyCode === 71) {
+    event.preventDefault()
   } else {
     
   }
