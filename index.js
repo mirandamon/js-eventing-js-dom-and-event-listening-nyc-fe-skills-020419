@@ -75,7 +75,7 @@ const divs = document.querySelectorAll('div')
 for (let div of divs) {
   div.addEventListener('click', (event) => {
     console.log(event)
-    event.stopPropogation()
+    event.stopPropogation() // stops bubbling from happening
   })
 }
 
