@@ -78,6 +78,8 @@ for (let div of divs) {
   })
 }
 
+// event bubbling
+
 
 
 
