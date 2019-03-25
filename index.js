@@ -43,11 +43,13 @@ const p = document.getElementById('yellow')
 function onYellowClick() {
 }
 
-p.addEventListener('click', () => {} )
+p.addEventListener('click', () => {
+  
+})
 
 
-// anonymous functions 
-
+// anonymous arrow functions 
+// ES6 Javascript (in 2015)
 
 
 
