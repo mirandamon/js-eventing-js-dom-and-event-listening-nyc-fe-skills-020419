@@ -36,3 +36,32 @@ function onInputKeyDown(event) {
 inputBox.addEventListener('keydown', onInputKeyDown)
 
 
+
+
+const p = document.getElementById('yellow')
+
+function onYellowClick() {
+  
+}
+
+p.addEventListener('click', )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
