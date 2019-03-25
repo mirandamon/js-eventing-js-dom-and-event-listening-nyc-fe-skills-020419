@@ -29,6 +29,6 @@ function onInputKeyDown(event) {
   // if/else 
 }
 
-inputBox.addEventListener('')
+inputBox.addEventListener('keydown', )
 
 
