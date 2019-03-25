@@ -28,7 +28,11 @@ const inputBox = document.getElementById('sup')
 function onInputKeyDown(event) {
   // if/else 
   console.log(event)
-  
+  if () {
+    
+  } else {
+    
+  }
 }
 
 inputBox.addEventListener('keydown', onInputKeyDown)
