@@ -2,4 +2,6 @@
 
 const main = document.getElementById('main')
 
+
+// addEventListener has 2 o
 main.addEventListener('click', )
