@@ -15,4 +15,9 @@ function onClick(event) {
 // document level events: online/offline, global help button/scrolling
 
 
+function onKeyDown(event) {
+  console.log(event)
+}
+
 main.addEventListener('click', onClick)
+document.addEventListener('keydown', onKeyDown)
