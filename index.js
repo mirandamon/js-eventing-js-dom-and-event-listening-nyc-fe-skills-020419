@@ -9,12 +9,10 @@ const main = document.getElementById('main')
 // 2. is the function that is supposed to run when that event happens
 
 function onClick(event) {
-  console.log('hey the click happened')
+  console.log(event)
 }
 
 // document level events: online/offline, global help button/scrolling
 
 
 main.addEventListener('click', onClick)
-
-document.addEventListener('click', onClick)
