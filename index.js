@@ -46,6 +46,7 @@ const p = document.getElementById('yellow')
 
 p.addEventListener('click', (event) => {
   console.log(event)
+  
 })
 
 
