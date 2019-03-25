@@ -57,6 +57,33 @@ p.addEventListener('click', (event) => {
 // ES6 Javascript (in 2015)
 
 
+// 1: always find the element first
+const button = document.getElementById('plus')
+
+button.addEventListener('click', () => {
+  
+})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
