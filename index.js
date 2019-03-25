@@ -70,7 +70,7 @@ button.addEventListener('click', () => {
 
 
 const divs = document.querySelectorAll('div')
-// [div1, div2, div3]
+// [div1, div2, div3, div4, div5]
 
 for (let div of divs) {
   div.addEventListener('click', (event) => {
