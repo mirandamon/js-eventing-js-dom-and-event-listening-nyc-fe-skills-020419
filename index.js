@@ -61,7 +61,9 @@ p.addEventListener('click', (event) => {
 const button = document.getElementById('plus')
 
 button.addEventListener('click', () => {
-  
+  const newP = document.createElement('p')
+  // <p>Congratulations!</p>
+  newP.innerHTML = 'Congratulations!'
 })
 
 
