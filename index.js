@@ -22,14 +22,13 @@ function onKeyDown(event) {
 main.addEventListener('click', onClick)
 // document.addEventListener('keydown', onKeyDown)
 
-const inputBox = document.getElementById('')
+const inputBox = document.getElementById('sup')
 
 
 function onInputKeyDown(event) {
-  
+  // if/else 
 }
 
-inputBox.addEventListener()
+inputBox.addEventListener('')
 
-// if/else 
 
