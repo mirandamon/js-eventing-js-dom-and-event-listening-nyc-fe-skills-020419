@@ -44,9 +44,12 @@ const p = document.getElementById('yellow')
   
 // }
 
+// <p style="background-color: yellow">
+
 p.addEventListener('click', (event) => {
   console.log(event)
-  
+  // how do we make something yellow?
+  p.style.backgroundColor = 'yellow' 
 })
 
 
